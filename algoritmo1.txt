@@ -1,4 +1,4 @@
-solicitar 2 numeros 
-calcular a soma dos dois numeros
-exibir o resultado da soma
-Fim
+Leia x
+Leia y
+z= x+y
+escreva z
