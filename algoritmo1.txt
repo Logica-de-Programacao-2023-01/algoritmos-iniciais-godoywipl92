@@ -1,0 +1,4 @@
+solicitar 2 numeros 
+calcular a soma dos dois numeros
+exibir o resultado da soma
+Fim
