@@ -1,0 +1,5 @@
+1) leia x
+2) para todos os valores entre 2 e x-1, faça:
+3) se x/valor_atual tem resto 0: 
+4) então escreva "Não é primo"
+5) escreva "É primo"
