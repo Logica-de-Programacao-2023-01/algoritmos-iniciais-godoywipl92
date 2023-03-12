@@ -1,0 +1,7 @@
+1) leia taxa_juros
+2) leia maiúscula
+3) leia o tempo
+4) var resultado = capital * taxa_juros
+5) parar todos os valores entre 1 e tempo faça: 
+6) resultado = resultado 8 taxa_juros
+7) escreva o resultado
