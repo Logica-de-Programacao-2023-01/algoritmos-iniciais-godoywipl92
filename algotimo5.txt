@@ -1,6 +1,0 @@
-1) leia x
-2) leia lista
-3) para cada elemento da lista faça:
-4) se elemento igual a x:
-5) então escreve x
-6) escreva "não encontrei"
